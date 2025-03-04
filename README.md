@@ -11,11 +11,11 @@ Creature Game is a Python-based project where players can create, evolve, and ba
 
 ## Project Structure
 📦 Creature Game
-    creatures.py # Core logic for creature behavior and battles
-    game.py # Main game loop and user interactions
-    utils.py # Helper functions for game mechanics
-    README.md # Project documentation
-    requirements.txt # Python dependencies (if any)
+creatures.py # Core logic for creature behavior and battles
+game.py # Main game loop and user interactions
+utils.py # Helper functions for game mechanics
+README.md # Project documentation
+requirements.txt # Python dependencies (if any)
 ## How to Run
 1. Clone the repository:
    git clone git@github.com:senagulen/Creature-Game--My-Project.git cd Creature-Game--My-Project
