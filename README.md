@@ -24,4 +24,4 @@ requirements.txt # Python dependencies (if any)
 3. Follow the on-screen prompts to create creatures and battle.
    
 ## Author
-Developed by **Senagulen**
+Developed by **senagulen**
